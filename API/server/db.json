@@ -1,0 +1,293 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "username": "phongbaoto",
+      "emailAddress": "phong@gmail.com",
+      "password": "phong1204"
+    },
+    {
+      "id": "49b3",
+      "email": "phong@gmail.com",
+      "password": "123345"
+    },
+    {
+      "id": "60fb",
+      "email": "phong@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "typeCoffee": [
+    {
+      "id": 1,
+      "title": "Capuchino"
+    },
+    {
+      "id": 2,
+      "title": "Latte"
+    },
+    {
+      "id": 3,
+      "title": "Espresso"
+    },
+    {
+      "id": 4,
+      "title": "Mocha"
+    },
+    {
+      "id": 5,
+      "title": "Americano"
+    }
+  ],
+  "productCoffee": [
+    {
+      "id": 1,
+      "title": "Capuchino",
+      "description": "Capuchino truyền thống",
+      "image": "https://media.saigontourist.edu.vn/Media/1_STHCHOME/FolderFunc/202303/Images/capuchino-la-gi-20230320105423-e.jpg",
+      "category": 1,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Capuchino truyền thống là thức uống thơm ngon, dễ pha chế và phù hợp với mọi sở thích. Bạn có thể thưởng thức cà phê Capuchino vào bất cứ lúc nào trong ngày, đặc biệt là vào buổi sáng hoặc sau bữa ăn."
+    },
+    {
+      "id": 2,
+      "title": "Capuchino",
+      "description": "Capuchino đá",
+      "image": "https://capheorganic.com.vn/wp-content/uploads/2021/04/capuchino-coffee-02.jpg",
+      "category": 1,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Capuchino đá là thức uống biến tấu từ Capuchino truyền thống, mang đến hương vị cà phê đậm đà pha lẫn sự mát lạnh sảng khoái của đá viên. Thức uống này là lựa chọn hoàn hảo cho những ngày nóng bức hay khi bạn muốn thưởng thức cà phê theo cách mới lạ."
+    },
+    {
+      "id": 3,
+      "title": "Capuchino",
+      "description": "Capuchino macchiato",
+      "image": "https://phache.com.vn/upload/gallery/capuchino.jpg",
+      "category": 1,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Capuchino Macchiato là sự kết hợp độc đáo giữa Capuchino truyền thống và Macchiato, mang đến hương vị cà phê đậm đà cùng lớp bọt sữa béo ngậy. Thức uống này phù hợp với những ai yêu thích hương vị cà phê mạnh mẽ nhưng đồng thời cũng muốn có chút ngọt ngào và béo ngậy."
+    },
+    {
+      "id": 4,
+      "title": "Capuchino",
+      "description": "Capuchino caramel",
+      "image": "https://media.betterlifeuae.com/mageplaza/blog/post/c/a/caramel_cappuccino.jpg",
+      "category": 1,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Capuchino Caramel kết hợp hoàn hảo giữa Capuchino truyền thống với hương vị ngọt ngào của caramel, mang đến một thức uống thơm ngon, đậm đà và béo ngậy. "
+    },
+    {
+      "id": 5,
+      "title": "Capuchino",
+      "description": "Capuchino matcha",
+      "image": "https://i.pinimg.com/originals/63/85/5f/63855f1c6de9cd3e997926f88fb5f76e.jpg",
+      "category": 1,
+      "evaluate": 4.5,
+      "price": 6
+    },
+    {
+      "id": 6,
+      "title": "Latte",
+      "description": "Latte truyền thống",
+      "image": "https://cubes-asia.com/wp-content/uploads/2021/12/ca-phe-latte-1.jpg",
+      "category": 2,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Latte truyền thống là thức uống cà phê phổ biến, được yêu thích bởi hương vị cân bằng giữa cà phê espresso đậm đà và sữa béo ngậy. Thức uống này phù hợp với những ai yêu thích cà phê nhưng không muốn vị quá đắng."
+    },
+    {
+      "id": 7,
+      "title": "Latte",
+      "description": "Latte vani",
+      "image": "https://cdn.tgdd.vn/2021/09/content/Cafe-latte-la-gi-latte-va-cupuchino-co-gi-khac-cac-loai-cach-pha-latte-4-800x480.jpg",
+      "category": 2,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Latte vani là sự kết hợp hoàn hảo giữa Latte truyền thống và hương vị ngọt ngào của vani, mang đến một thức uống thơm ngon, béo ngậy và đầy tinh tế."
+    },
+    {
+      "id": 8,
+      "title": "Latte",
+      "description": "Latte caramel",
+      "image": "https://product.hstatic.net/1000383842/product/caramel_latte_nong_27ab7e4e81874cfc9fb4158c93d12737_master.jpg",
+      "category": 2,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Latte Caramel là sự kết hợp tuyệt vời giữa hương vị mạnh mẽ của cà phê espresso, sữa béo ngậy và vị ngọt ngào, béo thơm của caramel, tạo nên một thức uống thơm ngon, cân bằng và quyến rũ."
+    },
+    {
+      "id": 9,
+      "title": "Latte",
+      "description": "Latte socola",
+      "image": "https://uories.com/wp-content/uploads/2020/03/U-ories_Tiemcaphe_1-copy-2-copy.jpg",
+      "category": 2,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Latte Socola là sự kết hợp tuyệt vời giữa vị đắng nhẹ của cà phê espresso, sữa béo ngậy và hương vị socola thơm ngon, tạo nên một thức uống không chỉ thơm ngon mà còn đẹp mắt."
+    },
+    {
+      "id": 10,
+      "title": "Latte",
+      "description": "Latte matcha",
+      "image": "https://phuclong.com.vn/uploads/coffee/8eb0402469c284-trxanhlatte.jpg",
+      "category": 2,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Latte Matcha là sự kết hợp độc đáo giữa trà xanh matcha Nhật Bản thơm ngon và cà phê latte béo ngậy, tạo nên một thức uống thơm mát, thanh đạm và giàu dưỡng chất."
+    },
+    {
+      "id": 11,
+      "title": "Espresso",
+      "description": "Single Espresso",
+      "image": "https://krave.com.bd/wp-content/uploads/2020/06/Espresso-Single.jpg",
+      "category": 3,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Single Espresso (còn gọi là solo espresso) là một shot cà phê đậm đà, được chiết xuất từ khoảng 7-8 gam bột cà phê với 25-35ml nước nóng, tạo nên hương vị cà phê tinh túy nhất. Đây là thức uống lý tưởng cho những ai yêu thích cà phê mạnh mẽ, muốn cảm nhận trọn vẹn hương vị cà phê mà không bị pha loãng."
+    },
+    {
+      "id": 12,
+      "title": "Espresso",
+      "description": "Double Espresso",
+      "image": "https://qr.khorrot.com/wp-content/uploads/2022/01/DOUBLE-ESPRESSO-scaled.jpg",
+      "category": 3,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Double Espresso (còn gọi là Doppio) là phiên bản mạnh mẽ hơn của Single Espresso, sử dụng gấp đôi lượng bột cà phê (khoảng 14-16 gam) và nước nóng (50-70ml) để chiết xuất. Đây là lựa chọn hoàn hảo cho những tín đồ cà phê sành điệu, ưa thích hương vị đậm đà và muốn tăng công dụng trong thời gian ngắn."
+    },
+    {
+      "id": 13,
+      "title": "Espresso",
+      "description": "Espresso Lungo",
+      "image": "https://bazantravel.com/cdn/medias/uploads/30/30179-ca-phe-lung-go-700x465.jpg",
+      "category": 3,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Espresso Lungo (tiếng Ý nghĩa là 'Espresso dài) là một biến thể của cà phê espresso truyền thống, được pha chế bằng cách chiết xuất cà phê với lượng nước gấp đôi (khoảng 50-70ml) trong thời gian dài hơn (khoảng 25-35 giây) so với espresso thông thường (25-30ml trong 25-30 giây)."
+    },
+    {
+      "id": 14,
+      "title": "Espresso",
+      "description": "Latte matcha",
+      "image": "https://phuclong.com.vn/uploads/coffee/8eb0402469c284-trxanhlatte.jpg",
+      "category": 3,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Espresso Matcha là sự kết hợp độc đáo giữa hai thế giới cà phê và trà xanh, mang đến hương vị vừa mới lạ, vừa thú vị. "
+    },
+    {
+      "id": 15,
+      "title": "Mocha ",
+      "description": "Mocha đá xay",
+      "image": "https://mcdonalds.vn/uploads/2018/mccafe/frappematcha.png",
+      "category": 4,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Mocha đá xay là thức uống kết hợp hoàn hảo giữa vị đắng nhẹ của cà phê, vị ngọt ngào của sô cô la và sự mát lạnh sảng khoái của đá xay. Đây là lựa chọn lý tưởng cho những ngày nóng bức hay khi bạn muốn thưởng thức một thức uống độc đáo."
+    },
+    {
+      "id": 16,
+      "title": "Mocha ",
+      "description": "Mocha nóng",
+      "image": "https://vietblend.vn/wp-content/uploads/2018/12/cafe-mocha-nong.jpg",
+      "category": 4,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Mocha nóng là thức uống kết hợp hoàn hảo giữa vị đắng nhẹ của cà phê, vị ngọt ngào của sô cô la và vị béo ngậy của sữa nóng. Đây là lựa chọn lý tưởng cho những ngày se lạnh hoặc khi bạn muốn thưởng thức một thức uống ấm áp và sảng khoái."
+    },
+    {
+      "id": 17,
+      "title": "Mocha ",
+      "description": "Mocha đá bọt",
+      "image": "https://media.istockphoto.com/id/1145639803/vi/anh/mocha-c%C3%A0-ph%C3%AA-%C4%91%C3%A1-v%E1%BB%9Bi-b%E1%BB%8Dt-s%E1%BB%AFa-v%C3%A0-s%E1%BB%91t-s%C3%B4-c%C3%B4-la-trong-m%E1%BB%99t-ly-cao-t%E1%BA%ADp-trung-ch%E1%BB%8Dn-l%E1%BB%8Dc.jpg?s=612x612&w=0&k=20&c=zRyWl0Y1SsW98qICvWdM_RY1xGCUC7tsjnA-hKliQJs=",
+      "category": 4,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Mocha đá bọt là thức uống kết hợp hoàn hảo giữa vị đắng nhẹ của cà phê, vị ngọt ngào của sô cô la, vị béo ngậy của sữa và sự mát lạnh sảng khoái của đá xay cùng lớp bọt sữa mịn màng. Đây là lựa chọn lý tưởng cho những ngày nóng bức hay khi bạn muốn thưởng thức một thức uống độc đáo và đầy thú vị."
+    },
+    {
+      "id": 18,
+      "title": "Mocha ",
+      "description": "Mocha caramel",
+      "image": "https://whatsfordinner.com/wp-content/uploads/2017/02/caramel-mocha-coffee-recipe.jpg",
+      "category": 4,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Mocha Caramel là thức uống kết hợp hương vị thơm ngon của cà phê mocha béo ngậy với vị ngọt ngào, béo bùi của caramel, tạo nên một ly cà phê đầy hấp dẫn. "
+    },
+    {
+      "id": 19,
+      "title": "Mocha ",
+      "description": "Mocha bạc hà",
+      "image": "https://png.pngtree.com/png-clipart/20231230/original/pngtree-peppermint-coffee-mocha-for-christmas-on-wooden-table-png-image_13971213.png",
+      "category": 4,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Mocha Bạc Hà là sự kết hợp độc đáo giữa vị đắng nhẹ của cà phê, vị ngọt ngào của sô cô la, vị béo ngậy của sữa và vị the mát sảng khoái của bạc hà. Thức uống này mang đến trải nghiệm mới lạ, hoàn hảo cho những ngày nóng bức hay khi bạn muốn một thức uống thanh mát, đầy sảng khoái."
+    },
+    {
+      "id": 20,
+      "title": "Americano",
+      "description": "Americano nóng",
+      "image": "https://product.hstatic.net/1000287491/product/americano_2b4d8df6379344a9b397e2d5aae643b0.jpg",
+      "category": 5,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Americano nóng là thức uống pha chế đơn giản, mang đến hương vị cà phê đậm đà và mạnh mẽ. Đây là lựa chọn lý tưởng cho những ai yêu thích cà phê nguyên chất và muốn thưởng thức trọn vẹn hương vị cà phê rang xay."
+    },
+    {
+      "id": 21,
+      "title": "Americano",
+      "description": "Americano đá",
+      "image": "https://uories.com/wp-content/uploads/2020/03/U-ories_Tiemcaphe_3-copy-6-copy.jpg",
+      "category": 5,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Americano đá là thức uống pha chế đơn giản, mang đến hương vị cà phê đậm đà và sảng khoái. Đây là lựa chọn lý tưởng cho những ai yêu thích cà phê nguyên chất và muốn thưởng thức một thức uống mát lạnh trong những ngày nóng bức."
+    },
+    {
+      "id": 22,
+      "title": "Americano",
+      "description": "Americano mật ong",
+      "image": "https://epicure.vn/wp-content/uploads/2018/03/26239971_10156056820874038_5491806401898085173_o.jpg",
+      "category": 5,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Americano mật ong là sự kết hợp độc đáo giữa vị đắng nhẹ của cà phê, vị ngọt thanh của mật ong và vị béo ngậy của sữa. Thức uống này mang đến trải nghiệm mới lạ, hoàn hảo cho những ai yêu thích hương vị cà phê nhưng muốn có vị ngọt nhẹ nhàng hơn."
+    },
+    {
+      "id": 23,
+      "title": "Americano ",
+      "description": "Americano sữa",
+      "image": "https://cdn.tgdd.vn/2021/11/CookDish/americano-la-gi-nguon-goc-cach-pha-americano-don-gian-va-avt-1200x676.jpg",
+      "category": 5,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Americano sữa là sự kết hợp hoàn hảo giữa vị đắng nhẹ của cà phê espresso và vị béo ngậy của sữa tươi. Thức uống này mang đến trải nghiệm mới lạ, phù hợp với những ai yêu thích hương vị cà phê nhưng muốn có vị ngọt ngào và dễ uống hơn."
+    },
+    {
+      "id": 24,
+      "title": "Americano ",
+      "description": "Americano vị chanh",
+      "image": "https://media.istockphoto.com/id/1193678272/vi/anh/m%E1%BB%99t-ly-c%C3%A0-ph%C3%AA-americano-%C4%91%C3%A1-v%C3%A0-l%E1%BB%9Bp-n%C6%B0%E1%BB%9Bc-cam-v%C3%A0-chanh-%C4%91%C6%B0%E1%BB%A3c-trang-tr%C3%AD-b%E1%BA%B1ng-l%C3%A1-h%C3%BAng-t%C3%A2y-v%C3%A0-th%C3%A1i-l%C3%A1t.jpg?s=170667a&w=0&k=20&c=DnvflwUp2rQIXDg8KtqVrZqoUQiuVL5Yfd8nYqiV2TA=",
+      "category": 5,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Americano vị chanh là sự kết hợp độc đáo giữa vị đắng nhẹ của cà phê, vị chua thanh của chanh và vị béo ngậy của sữa. Thức uống này mang đến trải nghiệm mới lạ, hoàn hảo cho những ai yêu thích hương vị cà phê nhưng muốn có vị chua thanh và sảng khoái hơn."
+    },
+    {
+      "id": 25,
+      "title": "Americano ",
+      "description": "Americano vani",
+      "image": "https://www.eightoclock.com/cdn/shop/articles/recipe-caffe_americano_vanilla_delight-page_400x.jpg?v=1670394069",
+      "category": 5,
+      "evaluate": 4.5,
+      "price": 6,
+      "detail": "Americano vani là sự kết hợp hấp dẫn giữa vị đắng nhẹ của cà phê Americano với hương thơm ngọt ngào, tinh tế của vani. Thức uống này phù hợp với những ai yêu thích hương vị cà phê nhưng muốn tăng thêm độ ngọt ngào và dễ uống hơn."
+    }
+  ]
+}
